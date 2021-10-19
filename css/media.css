@@ -1,0 +1,1747 @@
+@media (max-width: 576px) {
+
+  body {
+   overflow-x: hidden;
+ }
+ /*start menu top*/
+ /*start logo*/
+ .logo a {
+  font-size: 25px;
+}
+.logo > i {
+  font-size: 25px;
+}
+/*end logo*/
+.ic-search {
+	margin-left: 205px;
+}
+
+.menu-id, .en-ru {
+	display: none;
+}
+
+.icon-bars_top, .media-menu {
+  display: block;
+}
+.img_top_bg {
+  overflow: hidden;
+}
+
+/*menu top end*/
+
+/*<!-- srart img top heading  -->*/
+.imgtop-heading {
+  width: 400px;
+  height: 200px;
+  top: 200px;
+  left: 50px;
+}
+
+.heading-h1 {
+  width: 250px;
+  height: 100px;
+}
+
+.heading-h1 > h1 {
+  font-size: 30px;
+}
+
+.imgtop-heading p {
+  font-size: 20px;
+  margin-top: 10px;
+}
+/*<!-- img top heading end  -->*/
+
+/*<!-- start cont-info-conter -->*/
+.cont-info-conter {
+  display: block;
+  max-width: 90%;
+  max-height: 280px;
+  top: 590px;
+  left: auto;
+}
+
+
+.cont p {
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.cont-icon {
+  width: 80%;
+  height: 80px;
+}
+
+.cont-icon i {
+  font-size: 30px;
+  margin-top: 30px;
+}
+
+
+.cal {
+	border-bottom: 1px solid blue;
+}
+.nav {
+	border-bottom: 1px solid #2740CDC4;
+}
+.calendar h2 {
+  line-height: 25px;
+  margin-top: 10px;
+}
+
+/*<!--  cont-info-conter end-->*/
+
+/*<!-- start main 1 centr top img text  -->*/
+.info-clinic {
+  display: block;
+  width: 90%;
+  height: 600px;
+  margin: 700px auto 0;
+}
+/*hed-dentiinfo-clinic start*/
+.hed-dentiinfo-clinic {
+  width: 100%;
+}
+.hed-dentiinfo-clinic h1 {
+  font-size: 28px;
+  line-height: 35px;
+}
+.hed-dentiinfo-clinic h2 {
+  margin-left: 200px;
+  margin-top: -70px;
+  line-height: 35px;
+}
+.hed-dentiinfo-clinic h3 {
+  margin-left: 220px;
+}
+.img_head img {
+  width: 150px;
+  height: 70px;
+  margin-top: 30px;
+}
+/*hed-dentiinfo-clinic end*/
+
+/*text-info start*/
+.text-info {
+  width: 100%;
+}
+.text-info p {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 35px;
+  margin-left: 5px;
+}
+.botom-text {
+ margin-top: 25px;
+}
+
+.info-clinic button {
+  margin: 38px 130px;
+}
+
+/*text-info end*/
+/*<!-- main 1 centr top img text end  -->*/
+
+/*<!-- menu and Our Values main 2 start -->*/
+.Values {
+  display: block;
+  width: 90%;
+  height: 500px;
+  margin: 100px auto;
+}
+
+.Values h1 {
+	text-align: center;
+  margin-top: 15px;
+  font-size: 25px;
+}
+.Values p {
+  font-size: 20px;
+  margin-top: 15px;
+  line-height: 28px;
+}
+
+.sid {
+  width: 100%;
+  height: 30%;
+}
+/*<!-- menu and Our Values main 2 end -->*/
+
+/*<!-- imgs brend main 4  start -->*/
+.imgs-brend {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  height: 300px;
+  margin: 20px auto;
+}
+
+.imgs-brend img {
+  width: 150px;
+  height: 50px;
+}
+/*<!-- imgs brend main 4  end -->*/
+
+/*<!-- main Services side 5 start -->*/
+.Services {
+  width: 100%;
+  height: 1200px;
+}
+.heading {
+  width: 400px;
+  height: 200px;
+}
+.heading h1 {
+  font-size: 35px;
+}
+.heading h2 {
+  font-size: 20px;
+}
+/*conter-info-left start*/
+.conter-info {
+  display: block;
+  width: 100%;
+  height: 480px;
+}
+.contER {
+  width: 80%;
+  height: 90px;
+  margin-left: 50px;
+}
+.contER h3 {
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+
+.dropContent {
+  font-size: 16px;
+  line-height: 18px;
+}
+.dropContent h4 {
+  font-size: 22px;
+  margin-top: 7px;
+}
+.oralHealth:hover .dropContent {
+  margin-top: 72px;
+}
+/*conter-info end*/
+/*<!-- main Services side 5 end -->*/
+
+/*<!-- main side 6 istory clients start -->*/
+.about-us {
+  height: 530px;
+  margin-top: 50px;
+}
+
+.fon-imgs {
+  height: 530px;
+}
+
+
+.fon-imgs h1 {
+  font-size: 24px;
+}
+
+.fon-imgs h2 {
+  font-size: 16px;
+  margin-top: 10px;
+}
+.clinic-rating {
+  display: block;
+  width: 80%;
+  height: 530px;
+}
+.border {
+  width: 100%;
+  height: 25%;
+  border: none;
+}
+
+.bordright {
+  border-right: none;
+}
+/*<!-- main side 6 istory clients end -->*/
+
+
+/*<!-- Dental Professionals main side 7 start -->*/
+.Dental-Professionals {
+  height: 1500px;
+  margin: 200px auto 100px;
+} 
+
+.heading-dental {
+  width: 480px;
+  height: 80px;
+
+}
+.heading-dental h1 {
+  font-size: 25px;
+  line-height: 35px;
+}
+
+/*img-doctors start*/
+.img-doctors {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 60%;
+  transform: translatex(35%);
+  
+}
+.img-doctors img {
+  max-height: 280px;
+}
+
+
+.icon_plus {
+  width: 50px;
+  height: 50px;
+  padding-top: 15px;
+  font-size: 20px;
+}
+
+.ic_cont{
+  width: 50px;
+  height: 50px;
+  padding-top: 15px;
+}
+
+.icon_plus:hover .ic_cont {
+  margin-top: 10px;
+}
+
+.img-doctors h2 {
+  font-size: 20px;
+  margin-top: 8px;
+}
+
+.img-doctors h3 {
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.img-doctors p {
+  font-size: 18px;
+  line-height: 25px;
+}
+/*<!-- Dental Professionals main side 7 end -->*/
+
+/*<!-- main side 8 ceo ot company start -->*/
+.ceo_ot-img h1 {
+  font-size: 28px;
+}
+
+.ceo_ot-img h2 {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.ceo_ot-img p {
+  font-size: 25px;
+  letter-spacing: 1px;
+  line-height: 30px;
+}
+/*<!-- main side 8 ceo ot company end -->*/
+
+/*<!-- main side 9 Latest News start  -->*/
+.Latest-News {
+  height: 1300px;
+}
+
+.news-heading {
+  max-width: 100%;
+  height: 80px;
+  font-size: 22px;
+}
+
+.LatestNews_img {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  height: 90%;
+}
+
+.Date {
+  width: 50px;
+  height: 50px;
+  padding-top: 5px;
+}
+.Date h1 {
+  font-size: 20px;
+}
+.Date h3 {
+  font-size: 18px;
+}
+
+.ifo-news {
+  max-width:80%;
+  height: 30%;
+}
+
+.ifo-news h2 {
+  margin: 10px 0;
+  font-size: 18px;
+}
+.ifo-news p {
+  font-size: 16px;
+  line-height: 25px;
+}
+
+.LatestNews_img button {
+  right: 60px;
+  width: 150px;
+  height: 50px;
+} 
+.LatestNews_img button > a {
+  font-size: 14px;
+}
+/*<!-- main side 9 Latest News end  -->*/
+
+
+/*<!-- main side 10  footr contact registr start  -->*/
+.contact-imput {
+  height: 800px;
+  background-color: #E5E5E5A6;
+  border: 1px solid #fff;
+}
+
+.cont-info {
+  width: 450px;
+  height: 150px;
+}
+
+.cont-info h1 {
+  font-size: 25px;
+  line-height: 35px;
+}
+
+.cont-info h2 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.form-imput {
+  display: flex;
+  flex-wrap: wrap;
+  width: 95%;
+  height: 320px;
+  margin: 10px auto;
+}
+
+.tayp_text {
+  margin: 10px auto;
+  font-size: 14px;
+  width: 80%;
+  height: 50px;
+}
+
+.contact-imput button a {
+  font-size: 16px;
+}
+
+/*<!-- main side 10  footr contact registr end  -->*/
+
+/*<!-- side main 12 foot-botom start  -->*/
+
+.bot-fot {
+  margin-left: 10px;
+}
+.fot_centr h1 {
+  font-size: 12px;
+}
+
+.fot_centr a {
+ font-size: 12px;
+ color: grey;
+}
+
+.icon_in_fa {
+  margin-right: 10px;
+  font-size: 15px;
+  letter-spacing: 10px;
+}
+/*<!-- side main 12 foot-botom end  -->*/
+}
+
+/*end min width 576px*/
+
+@media (min-width: 576px) and (max-width: 768px) {
+	body {
+   overflow-x: hidden;
+ }
+ /*start menu top*/
+ /*start logo*/
+ .logo a {
+  font-size: 30px;
+}
+.logo > i {
+  font-size: 30px;
+}
+/*end logo*/
+.ic-search {
+	margin-left: 275px;
+}
+
+.menu-id, .en-ru {
+	display: none;
+}
+
+.icon-bars_top, .media-menu {
+  display: block;
+}
+.img_top_bg {
+  overflow: hidden;
+}
+/*media menu icon-bars_top left start*/
+
+.media-menu {
+  position: absolute;
+  width: 400px;
+  height: 500px;
+  background-color: #fff;
+  border-radius: 5px;
+  margin:13px 410px;
+  z-index: 1;
+  opacity: 0;
+  visibility: hidden;
+  transition: 1s;
+  overflow: hidden;
+}
+.icon-bars_top:hover .media-menu {
+  opacity: 1;
+  visibility: visible;
+  margin:13px -350px;
+  transition: 1s;
+}
+
+.media-menu a {
+  margin: 20px 40px;
+  color: black;
+  line-height: 35px;
+  font-size: 22px;
+  text-shadow: 0 2px 4px grey;
+}
+
+.media-menu hr {
+  width: 0%;
+  height: 4px;
+  color: grey;
+  border-radius: 4px;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.8s;
+}
+.media-menu a:hover hr  {
+  width: 50%;
+  opacity: 1;
+  visibility: visible;
+  transition: 1s;
+  box-shadow: 2px 2px 4px grey;
+}
+.media-menu h2 {
+	margin-left: 40px;
+	font-size: 18px;
+	line-height: 10px;
+	margin-bottom: 20px;
+	color: grey;
+}
+.media-cont a {
+	font-size: 20px;
+	line-height: 30px;
+}
+.media-cont a:hover {
+	color: red;
+}
+
+/*media menu icon-bars_top left end*/
+/*menu top end*/
+
+/*<!-- srart img top heading  -->*/
+.imgtop-heading {
+  width: 400px;
+  height: 200px;
+  top: 200px;
+  left: 90px;
+}
+
+.heading-h1 {
+  width: 250px;
+  height: 100px;
+}
+
+.heading-h1 > h1 {
+  font-size: 30px;
+}
+
+.imgtop-heading p {
+  font-size: 20px;
+  margin-top: 10px;
+}
+/*<!-- img top heading end  -->*/
+
+/*<!-- start cont-info-conter -->*/
+.cont-info-conter {
+  display: block;
+  max-width: 90%;
+  max-height: 280px;
+  top: 590px;
+  left: auto;
+}
+
+
+.cont p {
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.cont-icon {
+  width: 80%;
+  height: 80px;
+}
+
+.cont-icon i {
+  font-size: 30px;
+  margin-top: 30px;
+}
+
+
+.cal {
+	border-bottom: 1px solid blue;
+}
+.nav {
+	border-bottom: 1px solid #2740CDC4;
+}
+
+.calendar h2 {
+  line-height: 25px;
+  margin-top: 10px;
+}
+/*<!--  cont-info-conter end-->*/
+
+
+/*<!-- start main 1 centr top img text  -->*/
+.info-clinic {
+  display: block;
+  width: 90%;
+  height: 600px;
+  margin: 700px auto 0;
+}
+/*hed-dentiinfo-clinic start*/
+.hed-dentiinfo-clinic {
+  width: 100%;
+}
+.hed-dentiinfo-clinic h1 {
+  font-size: 28px;
+  line-height: 35px;
+}
+.hed-dentiinfo-clinic h2 {
+  margin-left: 200px;
+  margin-top: -70px;
+  line-height: 35px;
+}
+.hed-dentiinfo-clinic h3 {
+  margin-left: 220px;
+}
+.img_head img {
+  width: 150px;
+  height: 70px;
+  margin-top: 30px;
+}
+/*hed-dentiinfo-clinic end*/
+
+/*text-info start*/
+.text-info {
+  width: 100%;
+}
+.text-info p {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 35px;
+  margin-left: 5px;
+}
+.botom-text {
+ margin-top: 25px;
+}
+
+.info-clinic button {
+  margin: 38px 130px;
+}
+
+/*text-info end*/
+/*<!-- main 1 centr top img text end  -->*/
+
+/*<!-- menu and Our Values main 2 start -->*/
+.Values {
+  display: block;
+  width: 90%;
+  height: 500px;
+  margin: 100px auto;
+}
+
+.Values h1 {
+	text-align: center;
+  margin-top: 15px;
+  font-size: 25px;
+}
+.Values p {
+  font-size: 20px;
+  margin-top: 15px;
+  line-height: 28px;
+}
+
+.sid {
+  width: 100%;
+  height: 30%;
+}
+/*<!-- menu and Our Values main 2 end -->*/
+
+/*<!-- imgs brend main 4  start -->*/
+.imgs-brend {
+  display: flex;
+  flex-wrap: wrap;
+  width: 75%;
+  height: 300px;
+  margin: 20px auto;
+}
+
+.imgs-brend img {
+  width: 140px;
+  height: 50px;
+}
+/*<!-- imgs brend main 4  end -->*/
+
+
+/*<!-- main Services side 5 start -->*/
+.Services {
+  width: 100%;
+  height: 1200px;
+}
+.heading {
+  width: 400px;
+  height: 200px;
+}
+.heading h1 {
+  font-size: 35px;
+}
+.heading h2 {
+  font-size: 20px;
+}
+/*conter-info-left start*/
+.conter-info {
+  display: block;
+  width: 100%;
+  height: 480px;
+}
+.contER {
+  width: 80%;
+  height: 90px;
+  margin-left: 50px;
+}
+.contER h3 {
+  font-size: 25px;
+  letter-spacing: 1px;
+}
+
+.dropContent {
+  font-size: 16px;
+  line-height: 18px;
+}
+.dropContent h4 {
+  font-size: 22px;
+  margin-top: 7px;
+}
+.oralHealth:hover .dropContent {
+  margin-top: 70px;
+}
+/*conter-info end*/
+/*<!-- main Services side 5 end -->*/
+
+/*<!-- main side 6 istory clients start -->*/
+.about-us {
+  height: 530px;
+  margin-top: 50px;
+}
+
+.fon-imgs {
+  height: 530px;
+}
+
+
+.fon-imgs h1 {
+  font-size: 26px;
+}
+
+.fon-imgs h2 {
+  font-size: 18px;
+  margin-top: 12px;
+}
+.clinic-rating {
+  display: block;
+  width: 80%;
+  height: 530px;
+}
+.border {
+  width: 100%;
+  height: 25%;
+  border: none;
+}
+
+.bordright {
+  border-right: none;
+}
+/*<!-- main side 6 istory clients end -->*/
+
+
+/*<!-- Dental Professionals main side 7 start -->*/
+.Dental-Professionals {
+  height: 1500px;
+} 
+
+.heading-dental {
+  width: 480px;
+  height: 100px;
+
+}
+.heading-dental h1 {
+  font-size: 28px;
+  line-height: 38px;
+}
+
+/*img-doctors start*/
+.img-doctors {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 80%;
+  text-align: center;
+  transform: translatex(50%);
+}
+.img-doctors {
+  max-width: 50%;
+}
+.icon_plus {
+  width: 50px;
+  height: 50px;
+  padding-top: 15px;
+  font-size: 20px;
+}
+
+.ic_cont{
+  width: 50px;
+  height: 50px;
+  padding-top: 15px;
+}
+
+.icon_plus:hover .ic_cont {
+  margin-top: 10px;
+}
+
+.img-doctors h2 {
+  font-size: 20px;
+  margin-top: 8px;
+}
+
+.img-doctors h3 {
+  font-size: 22px;
+  line-height: 30px;
+}
+
+.img-doctors p {
+  font-size: 18px;
+  line-height: 25px;
+}
+/*<!-- Dental Professionals main side 7 end -->*/
+
+/*<!-- main side 8 ceo ot company start -->*/
+.ceo_ot-img h1 {
+  font-size: 28px;
+}
+
+.ceo_ot-img h2 {
+  font-size: 20px;
+  line-height: 30px;
+}
+
+.ceo_ot-img p {
+  font-size: 25px;
+  letter-spacing: 1px;
+  line-height: 30px;
+}
+/*<!-- main side 8 ceo ot company end -->*/
+
+/*<!-- main side 9 Latest News start  -->*/
+.Latest-News {
+  height: 1300px;
+}
+
+.news-heading {
+  max-width: 100%;
+  height: 70px;
+  font-size: 24px;
+}
+
+.LatestNews_img {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  height: 90%;
+
+}
+
+.Date {
+  width: 55px;
+  height: 55px;
+  padding-top: 6px;
+}
+.Date h1 {
+  font-size: 22px;
+}
+.Date h3 {
+  font-size: 20px;
+}
+
+.ifo-news {
+  max-width:80%;
+  height: 30%;
+}
+
+.ifo-news h2 {
+  margin: 8px 0;
+  font-size: 20px;
+}
+.ifo-news p {
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.LatestNews_img button {
+  right: 65px;
+  width: 160px;
+  height: 55px;
+} 
+.LatestNews_img button > a {
+  font-size: 16px;
+}
+/*<!-- main side 9 Latest News end  -->*/
+
+
+/*<!-- main side 10  footr contact registr start  -->*/
+.contact-imput {
+  height: 800px;
+}
+
+.cont-info {
+  max-width: 90%;
+  text-align: center;
+  height: 150px;
+}
+
+.cont-info h1 {
+  font-size: 28px;
+  line-height: 35px;
+}
+
+.cont-info h2 {
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+.form-imput {
+  display: flex;
+  flex-wrap: wrap;
+  width: 95%;
+  height: 320px;
+  margin: 10px auto;
+}
+
+.tayp_text {
+  margin: 10px auto;
+  font-size: 16px;
+  width: 80%;
+  height: 50px;
+}
+
+.contact-imput button a {
+  font-size: 16px;
+}
+
+/*<!-- main side 10  footr contact registr end  -->*/
+
+/*<!-- side main 12 foot-botom start  -->*/
+
+.bot-fot {
+  margin-left: 12px;
+}
+.fot_centr h1 {
+  font-size: 14px;
+}
+
+.fot_centr a {
+ font-size: 14px;
+ color: grey;
+}
+
+.icon_in_fa {
+  margin-right: 12px;
+  font-size: 15px;
+  letter-spacing: 12px;
+}
+/*<!-- side main 12 foot-botom end  -->*/
+
+}
+
+
+@media (min-width: 768px) and (max-width: 992px) {
+	body {
+   overflow-x: hidden;
+ }
+ /*start menu top*/
+ /*start logo*/
+ .logo a {
+  font-size: 30px;
+}
+.logo > i {
+  font-size: 30px;
+}
+/*end logo*/
+.ic-search {
+	margin-left: 450px;
+}
+
+.menu-id, .en-ru {
+	display: none;
+}
+
+.icon-bars_top, .media-menu {
+  display: block;
+}
+.img_top_bg {
+  overflow: hidden;
+}
+/*media menu icon-bars_top left start*/
+
+.media-menu {
+  position: absolute;
+  width: 400px;
+  height: 500px;
+  background-color: #fff;
+  border-radius: 5px;
+  margin:13px 410px;
+  z-index: 1;
+  opacity: 0;
+  visibility: hidden;
+  transition: 1s;
+  overflow: hidden;
+}
+.icon-bars_top:hover .media-menu {
+  opacity: 1;
+  visibility: visible;
+  margin:13px -350px;
+  transition: 1s;
+}
+
+.media-menu a {
+  margin: 20px 40px;
+  color: black;
+  line-height: 35px;
+  font-size: 22px;
+  text-shadow: 0 2px 4px grey;
+}
+
+.media-menu hr {
+  width: 0%;
+  height: 4px;
+  color: grey;
+  border-radius: 4px;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.8s;
+}
+.media-menu a:hover hr  {
+  width: 50%;
+  opacity: 1;
+  visibility: visible;
+  transition: 1s;
+  box-shadow: 2px 2px 4px grey;
+}
+.media-menu h2 {
+	margin-left: 40px;
+	font-size: 18px;
+	line-height: 10px;
+	margin-bottom: 20px;
+	color: grey;
+}
+.media-cont a {
+	font-size: 20px;
+	line-height: 30px;
+}
+.media-cont a:hover {
+	color: red;
+}
+
+/*media menu icon-bars_top left end*/
+/*menu top end*/
+
+/*<!-- srart img top heading  -->*/
+.imgtop-heading {
+  width: 400px;
+  height: 200px;
+  top: 200px;
+  left: 120px;
+}
+
+.heading-h1 {
+  width: 250px;
+  height: 100px;
+}
+
+.heading-h1 > h1 {
+  font-size: 30px;
+}
+
+.imgtop-heading p {
+  font-size: 20px;
+  margin-top: 10px;
+}
+/*<!-- img top heading end  -->*/
+
+/*<!-- start cont-info-conter -->*/
+.cont-info-conter {
+  display: block;
+  max-width: 90%;
+  max-height: 280px;
+  top: 590px;
+  left: auto;
+}
+
+
+.cont p {
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.cont-icon {
+  width: 80%;
+  height: 80px;
+}
+
+.cont-icon i {
+  font-size: 30px;
+  margin-top: 30px;
+}
+
+
+.cal {
+	border-bottom: 1px solid blue;
+}
+.nav {
+	border-bottom: 1px solid #2740CDC4;
+}
+
+.calendar h2 {
+  line-height: 25px;
+  margin-top: 10px;
+}
+/*<!--  cont-info-conter end-->*/
+
+/*<!-- start main 1 centr top img text  -->*/
+.info-clinic {
+  display: block;
+  width: 90%;
+  height: 600px;
+  margin: 700px auto 0;
+}
+/*hed-dentiinfo-clinic start*/
+.hed-dentiinfo-clinic {
+  width: 100%;
+}
+.hed-dentiinfo-clinic h1 {
+  font-size: 28px;
+  line-height: 35px;
+}
+.hed-dentiinfo-clinic h2 {
+  margin-left: 200px;
+  margin-top: -70px;
+  line-height: 35px;
+}
+.hed-dentiinfo-clinic h3 {
+  margin-left: 220px;
+}
+.img_head img {
+  width: 150px;
+  height: 70px;
+  margin-top: 30px;
+}
+/*hed-dentiinfo-clinic end*/
+
+/*text-info start*/
+.text-info {
+  width: 100%;
+}
+.text-info p {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 35px;
+  margin-left: 5px;
+}
+.botom-text {
+ margin-top: 25px;
+}
+
+.info-clinic button {
+  margin: 38px 150px;
+}
+
+/*text-info end*/
+/*<!-- main 1 centr top img text end  -->*/
+
+/*<!-- menu and Our Values main 2 start -->*/
+.Values {
+  display: block;
+  width: 90%;
+  height: 500px;
+  margin: 100px auto;
+}
+
+.Values h1 {
+	text-align: center;
+  margin-top: 15px;
+  font-size: 25px;
+}
+.Values p {
+  font-size: 20px;
+  margin-top: 15px;
+  line-height: 28px;
+}
+
+.sid {
+  width: 100%;
+  height: 30%;
+}
+/*<!-- menu and Our Values main 2 end -->*/
+
+/*<!-- imgs brend main 4  start -->*/
+.imgs-brend {
+  display: flex;
+  justify-content: space-between;
+  width: 95%;
+  height: 200px;
+  margin: 20px auto;
+}
+
+.imgs-brend img {
+  width: 100px;
+  height: 50px;
+}
+/*<!-- imgs brend main 4  end -->*/
+
+
+/*<!-- main Services side 5 start -->*/
+
+.heading {
+  width: 400px;
+  height: 200px;
+}
+.heading h1 {
+  font-size: 35px;
+}
+.heading h2 {
+  margin-top: 20px;
+}
+/*conter-info-left start*/
+
+.contER {
+  position: relative;
+  width: 48%;
+  height: 100px;
+}
+
+
+.contER h3 {
+  font-size: 25px;
+  letter-spacing: 2px;
+}
+
+.dropContent {
+  font-size: 16px;
+  line-height: 20px;
+}
+.dropContent h4 {
+  font-size: 20px;
+  margin-top: 3px;
+}
+.oralHealth:hover .dropContent {
+  margin-top: 90px;
+}
+/*conter-info end*/
+/*<!-- main Services side 5 end -->*/
+
+/**<!-- main side 6 istory clients start -->*/
+.fon-imgs h1 {
+  font-size: 20px;
+}
+
+.fon-imgs h2 {
+  font-size: 13px;
+  margin-top: 12px;
+}
+.clinic-rating {
+  width: 75%;
+  height: 70%;
+}
+.border {
+  padding: 35px 10px;
+}
+/*<!-- main side 6 istory clients end -->*/
+
+
+/*<!-- Dental Professionals main side 7 start -->*/
+.Dental-Professionals {
+  height: 600px;
+} 
+
+.heading-dental {
+  width: 500px;
+  height: 130px;
+}
+.heading-dental h1 {
+  font-size: 30px;
+  line-height: 40px;
+}
+
+.icon_plus {
+  width: 50px;
+  height: 50px;
+  padding-top: 15px;
+  font-size: 20px;
+}
+
+.ic_cont{
+  width: 50px;
+  height: 50px;
+  padding-top: 14px;
+}
+
+.icon_plus:hover .ic_cont {
+  margin-top: 12px;
+}
+
+.img-doctors h2 {
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+.img-doctors h3 {
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.img-doctors p {
+  font-size: 16px;
+  line-height: 20px;
+}
+/*<!-- Dental Professionals main side 7 end -->*/
+
+/*<!-- main side 9 Latest News start  -->*/
+.Latest-News {
+  height: 500px;
+}
+
+.news-heading {
+  width: 100%;
+}
+
+.LatestNews_img {
+  height: 330px;
+}
+
+
+.Date {
+  margin: -60px 10px;
+  width: 50px;
+  height: 50px;
+  padding-top: 8px;
+  line-height: 15px;
+}
+
+.ifo-news {
+  max-width:33%;
+  height: 100%;
+  padding: 6px;
+}
+
+.Date h1 {
+  font-size: 18px;
+}
+.Date h3 {
+  font-size: 13px;
+}
+.ifo-news h2 {
+  font-size: 20px;
+  margin: 5px 0;
+}
+.ifo-news p {
+  font-size: 18px;
+  line-height: 22px;
+}
+
+/*<!-- main side 9 Latest News end  -->*/
+
+
+/*<!-- main side 10  footr contact registr start  -->*/
+.contact-imput {
+  height: 800px;
+}
+
+.cont-info {
+  width: 95%;
+  text-align: center;
+  height: 150px;
+}
+
+.cont-info h1 {
+  font-size: 30px;
+  line-height: 38px;
+}
+
+.cont-info h2 {
+  font-size: 24px;
+  margin-top: 20px;
+}
+
+.form-imput {
+  display: flex;
+  flex-wrap: wrap;
+  width: 95%;
+  height: 320px;
+  margin: 10px auto;
+}
+
+.tayp_text {
+  margin: 10px auto;
+  font-size: 18px;
+  width: 80%;
+  height: 50px;
+}
+
+.contact-imput button a {
+  font-size: 16px;
+}
+
+/*<!-- main side 10  footr contact registr end  -->*/
+
+}
+
+
+@media (min-width: 992px) and (max-width: 1200px) {
+	body {
+   overflow-x: hidden;
+ }
+ .menu-id {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  margin-left: 20px;
+}
+
+.menu-id a {
+  font-size: 18px;
+  margin-left: 15px;
+}
+
+.logo a {
+  font-size: 30px;
+}
+.logo > i {
+  font-size: 25px;
+}
+
+.en-ru {
+  margin-left: 60px;
+}
+
+/*<!-- start cont-info-conter -->*/
+.cont-info-conter {
+  display: block;
+  max-width: 90%;
+  max-height: 280px;
+  top: 590px;
+  left: auto;
+}
+
+
+.cont p {
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.cont-icon {
+  width: 80%;
+  height: 80px;
+}
+
+.cont-icon i {
+  font-size: 30px;
+  margin-top: 30px;
+}
+
+
+.cal {
+	border-bottom: 1px solid blue;
+}
+.nav {
+	border-bottom: 1px solid #2740CDC4;
+}
+.calendar h2 {
+  line-height: 25px;
+  margin-top: 10px;
+}
+/*<!--  cont-info-conter end-->*/
+
+/*<!-- start main 1 centr top img text  -->*/
+.info-clinic {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  height: 450px;
+  margin: 750px auto 0;
+}
+/*hed-dentiinfo-clinic start*/
+.hed-dentiinfo-clinic {
+  width: 50%;
+}
+.hed-dentiinfo-clinic h2 {
+  margin-left: 250px;
+  margin-top: -100px;
+  line-height: 35px;
+}
+.hed-dentiinfo-clinic h3 {
+  margin-left: 280px;
+}
+.img_head img {
+  margin-top: 80px;
+}
+/*hed-dentiinfo-clinic end*/
+
+/*text-info start*/
+.text-info {
+  width: 50%;
+}
+/*text-info end*/
+/*<!-- main 1 centr top img text end  -->*/
+
+/*<!-- menu and Our Values main 2 start -->*/
+.Values {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+  height: 300px;
+  margin: 150px auto;
+}
+
+.Values h1 {
+	text-align: left;
+  margin-top: 30px;
+  font-size: 30px;
+}
+.Values p {
+  margin-top: 30px;
+  line-height: 28px;
+}
+
+.sid {
+  width: 30%;
+  border-top: 1px solid #ddd;
+}
+/*<!-- menu and Our Values main 2 end -->*/
+
+/*<!-- imgs brend main 4  start -->*/
+.imgs-brend {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 95%;
+  height: 200px;
+  margin: 20px auto;
+}
+
+.imgs-brend img {
+  width: 130px;
+  height: 50px;
+}
+/*<!-- imgs brend main 4  end -->*/
+
+
+/*<!-- main Services side 5 start -->*/
+
+.heading {
+  width: 400px;
+  height: 200px;
+}
+.heading h1 {
+  font-size: 35px;
+}
+.heading h2 {
+  margin-top: 20px;
+}
+/*conter-info-left start*/
+
+.contER {
+  position: relative;
+  width: 48%;
+  height: 100px;
+}
+
+
+.contER h3 {
+  font-size: 25px;
+  letter-spacing: 2px;
+}
+
+.dropContent {
+  font-size: 16px;
+  line-height: 20px;
+}
+.dropContent h4 {
+  font-size: 20px;
+  margin-top: 3px;
+}
+.oralHealth:hover .dropContent {
+  margin-top: 100px;
+}
+/*conter-info end*/
+/*<!-- main Services side 5 end -->*/
+
+
+/**<!-- main side 6 istory clients start -->*/
+.fon-imgs h1 {
+  font-size: 24px;
+}
+
+.fon-imgs h2 {
+  font-size: 16px;
+  margin-top: 12px;
+}
+.clinic-rating {
+  width: 75%;
+  height: 70%;
+}
+.border {
+  padding: 35px 10px;
+}
+/*<!-- main side 6 istory clients end -->*/
+
+
+/*<!-- Dental Professionals main side 7 start -->*/
+.Dental-Professionals {
+  height: 600px;
+} 
+
+.heading-dental {
+  width: 500px;
+  height: 130px;
+}
+.heading-dental h1 {
+  font-size: 35px;
+  line-height: 45px;
+}
+
+.icon_plus {
+  width: 50px;
+  height: 50px;
+  padding-top: 15px;
+  font-size: 20px;
+}
+
+.ic_cont{
+  width: 50px;
+  height: 50px;
+  padding-top: 14px;
+}
+
+.icon_plus:hover .ic_cont {
+  margin-top: 12px;
+}
+
+.img-doctors h2 {
+  font-size: 20px;
+  margin-top: 5px;
+}
+
+.img-doctors h3 {
+  font-size: 18px;
+  line-height: 20px;
+}
+
+.img-doctors p {
+  font-size: 16px;
+  line-height: 20px;
+}
+/*<!-- Dental Professionals main side 7 end -->*/
+
+
+/*<!-- main side 10  footr contact registr start  -->*/
+.contact-imput {
+  height: 700px;
+}
+
+.cont-info {
+  width: 60%;
+  height: 200px;
+}
+
+.cont-info h1 {
+  font-size: 28px;
+  line-height: 40px;
+}
+
+.cont-info h2 {
+  font-size: 20px;
+  margin-top: 25px;
+}
+
+.form-imput {
+  display: flex;
+  flex-wrap: wrap;
+  width: 95%;
+  height: 180px;
+  margin: 10px auto;
+
+}
+
+.tayp_text {
+  margin: 10px auto;
+  font-size: 16px;
+  width: 48%;
+  height: 50px;
+}
+
+.contact-imput button a {
+  font-size: 16px;
+}
+
+/*<!-- main side 10  footr contact registr end  -->*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
